@@ -27,8 +27,14 @@ more info [linux, kvm, virtualbox](https://www.vagrantup.com/docs/installation/#
 
 
 
-### get a box
 
 
-```bash
-$ vagrant install 
+# References 
+
+## Links
+
+* @wpscholar's [vagrant cheatsheet](https://github.com/iamvee/vagrant-learn/edit/master/README.md)
+
+## books I've Read (am reading)
+
+* Michael Peacock's [Creating Development Environments with Vagrant](https://www.goodreads.com/book/show/27757071-creating-development-environments-with-vagrant), Packt Pub.
